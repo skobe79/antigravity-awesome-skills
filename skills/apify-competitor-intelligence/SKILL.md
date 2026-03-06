@@ -1,11 +1,20 @@
 ---
 name: apify-competitor-intelligence
 description: Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.
+risk: safe
+source: https://github.com/apify/agent-skills
 ---
 
 # Competitor Intelligence
 
 Analyze competitors using Apify Actors to extract data from multiple platforms.
+
+## When to Use
+
+- When analyzing competitor strategies and market positioning
+- When tracking competitor content and engagement metrics
+- When monitoring competitor pricing and product offerings
+- When conducting competitive benchmarking analysis
 
 ## Prerequisites
 (No need to check it upfront)

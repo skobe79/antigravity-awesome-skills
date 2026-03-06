@@ -1,11 +1,20 @@
 ---
 name: apify-influencer-discovery
 description: Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.
+risk: safe
+source: https://github.com/apify/agent-skills
 ---
 
 # Influencer Discovery
 
 Discover and analyze influencers across multiple platforms using Apify Actors.
+
+## When to Use
+
+- When finding influencers for brand partnerships
+- When evaluating influencer authenticity and engagement
+- When tracking influencer collaboration performance
+- When discovering micro-influencers in specific niches
 
 ## Prerequisites
 (No need to check it upfront)

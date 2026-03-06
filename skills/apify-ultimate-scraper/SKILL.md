@@ -1,11 +1,20 @@
 ---
 name: apify-ultimate-scraper
 description: "Universal AI-powered web scraper for any platform. Scrape data from Instagram, Facebook, TikTok, YouTube, Google Maps, Google Search, Google Trends, Booking.com, and TripAdvisor. Use for lead gener..."
+risk: safe
+source: https://github.com/apify/agent-skills
 ---
 
 # Universal Web Scraper
 
 AI-driven data extraction from 55+ Actors across all major platforms. This skill automatically selects the best Actor for your task.
+
+## When to Use
+
+- When you need to scrape data from any major platform
+- When you're unsure which specific Apify Actor to use
+- When you need multi-platform data extraction
+- When you want AI-assisted Actor selection for your task
 
 ## Prerequisites
 (No need to check it upfront)

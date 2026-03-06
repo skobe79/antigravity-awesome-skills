@@ -53,7 +53,7 @@ This repository provides essential skills to transform your AI assistant into a 
 
 ---
 
-## New Here? Start Here!
+## New Here? Start Here
 
 **Welcome to the V6.10.0 Interactive Web Edition.** This isn't just a list of scripts; it's a complete operating system for your AI Agent.
 
@@ -123,7 +123,7 @@ These skills follow the universal **SKILL.md** format and work with any AI codin
 > [!TIP]
 > **Default installer path**: `~/.gemini/antigravity/skills` (Antigravity global). Use `--path ~/.agent/skills` for workspace-specific install. For manual clone, `.agent/skills/` works as workspace path for Antigravity.
 > **OpenCode Path Update**: opencode path is changed to `.agents/skills` for global skills. See [Place Files](https://opencode.ai/docs/skills/#place-files) directive on OpenCode Docs.
-
+>
 > [!WARNING]
 > **Windows Users**: this repository uses **symlinks** for official skills.
 > See [Troubleshooting](#troubleshooting) for the exact fix.
@@ -271,19 +271,19 @@ npx antigravity-awesome-skills
 
 They help you avoid picking from 1006+ skills one by one.
 
-### ⚠️ Important: Bundles Are NOT Separate Installations!
+### ⚠️ Important: Bundles Are NOT Separate Installations
 
 **Common confusion:** "Do I need to install each bundle separately?"
 
 **Answer: NO!** Here's what bundles actually are:
 
-**What bundles ARE:**
+**What bundles ARE**
 
 - ✅ Recommended skill lists organized by role
 - ✅ Curated starting points to help you decide what to use
 - ✅ Time-saving shortcuts for discovering relevant skills
 
-**What bundles are NOT:**
+**What bundles are NOT**
 
 - ❌ Separate installations or downloads
 - ❌ Different git commands
@@ -513,9 +513,7 @@ This collection would not be possible without the incredible work of the Claude 
 
 ## Repo Contributors
 
-<a href="https://github.com/sickn33/antigravity-awesome-skills/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sickn33/antigravity-awesome-skills" alt="Repository contributors" />
-</a>
+![Repository contributors](https://contrib.rocks/image?repo=sickn33/antigravity-awesome-skills)
 
 Made with [contrib.rocks](https://contrib.rocks).
 

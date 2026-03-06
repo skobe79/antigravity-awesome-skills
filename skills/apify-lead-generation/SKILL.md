@@ -1,11 +1,20 @@
 ---
 name: apify-lead-generation
 description: "Generates B2B/B2C leads by scraping Google Maps, websites, Instagram, TikTok, Facebook, LinkedIn, YouTube, and Google Search. Use when user asks to find leads, prospects, businesses, build lead lis..."
+risk: safe
+source: https://github.com/apify/agent-skills
 ---
 
 # Lead Generation
 
 Scrape leads from multiple platforms using Apify Actors.
+
+## When to Use
+
+- When generating B2B or B2C leads from multiple platforms
+- When building prospect lists for outreach campaigns
+- When discovering businesses in specific industries or locations
+- When enriching existing lead data with contact information
 
 ## Prerequisites
 (No need to check it upfront)

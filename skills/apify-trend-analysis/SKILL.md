@@ -1,11 +1,20 @@
 ---
 name: apify-trend-analysis
 description: Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.
+risk: safe
+source: https://github.com/apify/agent-skills
 ---
 
 # Trend Analysis
 
 Discover and track emerging trends using Apify Actors to extract data from multiple platforms.
+
+## When to Use
+
+- When discovering emerging trends across social platforms
+- When tracking trending hashtags and topics
+- When analyzing viral content patterns
+- When informing content strategy with trend data
 
 ## Prerequisites
 (No need to check it upfront)

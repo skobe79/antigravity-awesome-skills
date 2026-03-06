@@ -14,6 +14,13 @@ argument-hint: "[task description]"
 
 **Perception + memory + actions for video, live streams, and desktop sessions.**
 
+## When to Use
+
+- When you need to process, index, or search video content
+- When building video editing workflows with subtitles and overlays
+- When monitoring live streams or desktop sessions
+- When generating AI-powered media assets (images, audio, video)
+
 Use this skill when you need to:
 
 ## 1) Desktop Perception

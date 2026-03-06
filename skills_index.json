@@ -525,8 +525,8 @@
     "category": "uncategorized",
     "name": "apify-actor-development",
     "description": "Develop, debug, and deploy Apify Actors - serverless cloud programs for web scraping, automation, and data processing. Use when creating new Actors, modifying existing ones, or troubleshooting Acto...",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -535,8 +535,8 @@
     "category": "uncategorized",
     "name": "apify-actorization",
     "description": "Convert existing projects into Apify Actors - serverless cloud programs. Actorize JavaScript/TypeScript (SDK with Actor.init/exit), Python (async context manager), or any language (CLI wrapper). Us...",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -545,8 +545,8 @@
     "category": "uncategorized",
     "name": "apify-audience-analysis",
     "description": "Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -555,8 +555,8 @@
     "category": "uncategorized",
     "name": "apify-brand-reputation-monitoring",
     "description": "Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok. Use when user asks to monitor brand reputation, analyze...",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -565,8 +565,8 @@
     "category": "uncategorized",
     "name": "apify-competitor-intelligence",
     "description": "Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -575,8 +575,8 @@
     "category": "uncategorized",
     "name": "apify-content-analytics",
     "description": "Track engagement metrics, measure campaign ROI, and analyze content performance across Instagram, Facebook, YouTube, and TikTok.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -585,8 +585,8 @@
     "category": "uncategorized",
     "name": "apify-ecommerce",
     "description": "Scrape e-commerce data for pricing intelligence, customer reviews, and seller discovery across Amazon, Walmart, eBay, IKEA, and 50+ marketplaces. Use when user asks to monitor prices, track competi...",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -595,8 +595,8 @@
     "category": "uncategorized",
     "name": "apify-influencer-discovery",
     "description": "Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -605,8 +605,8 @@
     "category": "uncategorized",
     "name": "apify-lead-generation",
     "description": "Generates B2B/B2C leads by scraping Google Maps, websites, Instagram, TikTok, Facebook, LinkedIn, YouTube, and Google Search. Use when user asks to find leads, prospects, businesses, build lead lis...",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -615,8 +615,8 @@
     "category": "uncategorized",
     "name": "apify-market-research",
     "description": "Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com, and TripAdvisor.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -625,8 +625,8 @@
     "category": "uncategorized",
     "name": "apify-trend-analysis",
     "description": "Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -635,8 +635,8 @@
     "category": "uncategorized",
     "name": "apify-ultimate-scraper",
     "description": "Universal AI-powered web scraper for any platform. Scrape data from Instagram, Facebook, TikTok, YouTube, Google Maps, Google Search, Google Trends, Booking.com, and TripAdvisor. Use for lead gener...",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "https://github.com/apify/agent-skills",
     "date_added": null
   },
   {
@@ -4415,8 +4415,8 @@
     "category": "uncategorized",
     "name": "fda-food-safety-auditor",
     "description": "Expert AI auditor for FDA Food Safety (FSMA), HACCP, and PCQI compliance. Reviews food facility records and preventive controls.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "community",
     "date_added": null
   },
   {
@@ -4425,8 +4425,8 @@
     "category": "uncategorized",
     "name": "fda-medtech-compliance-auditor",
     "description": "Expert AI auditor for Medical Device (SaMD) compliance, IEC 62304, and 21 CFR Part 820. Reviews DHFs, technical files, and software validation.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "community",
     "date_added": null
   },
   {
@@ -6775,8 +6775,8 @@
     "category": "uncategorized",
     "name": "odoo-edi-connector",
     "description": "Guide for implementing EDI (Electronic Data Interchange) with Odoo: X12, EDIFACT document mapping, partner onboarding, and automated order processing.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "community",
     "date_added": null
   },
   {
@@ -6805,8 +6805,8 @@
     "category": "uncategorized",
     "name": "odoo-l10n-compliance",
     "description": "Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "community",
     "date_added": null
   },
   {
@@ -6925,8 +6925,8 @@
     "category": "uncategorized",
     "name": "odoo-shopify-integration",
     "description": "Connect Odoo with Shopify: sync products, inventory, orders, and customers using the Shopify API and Odoo's external API or connector modules.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "community",
     "date_added": null
   },
   {
@@ -6945,8 +6945,8 @@
     "category": "uncategorized",
     "name": "odoo-woocommerce-bridge",
     "description": "Sync Odoo with WooCommerce: products, inventory, orders, and customers via WooCommerce REST API and Odoo external API.",
-    "risk": "unknown",
-    "source": "unknown",
+    "risk": "safe",
+    "source": "community",
     "date_added": null
   },
   {

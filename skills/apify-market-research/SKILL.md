@@ -1,11 +1,20 @@
 ---
 name: apify-market-research
 description: Analyze market conditions, geographic opportunities, pricing, consumer behavior, and product validation across Google Maps, Facebook, Instagram, Booking.com, and TripAdvisor.
+risk: safe
+source: https://github.com/apify/agent-skills
 ---
 
 # Market Research
 
 Conduct market research using Apify Actors to extract data from multiple platforms.
+
+## When to Use
+
+- When analyzing market conditions and opportunities
+- When conducting competitive market analysis
+- When researching consumer behavior and preferences
+- When validating product ideas and market demand
 
 ## Prerequisites
 (No need to check it upfront)

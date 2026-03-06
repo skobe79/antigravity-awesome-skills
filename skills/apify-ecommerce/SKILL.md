@@ -1,11 +1,20 @@
 ---
 name: apify-ecommerce
 description: "Scrape e-commerce data for pricing intelligence, customer reviews, and seller discovery across Amazon, Walmart, eBay, IKEA, and 50+ marketplaces. Use when user asks to monitor prices, track competi..."
+risk: safe
+source: https://github.com/apify/agent-skills
 ---
 
 # E-commerce Data Extraction
 
 Extract product data, prices, reviews, and seller information from any e-commerce platform using Apify's E-commerce Scraping Tool.
+
+## When to Use
+
+- When monitoring competitor prices and product offerings
+- When extracting customer reviews for sentiment analysis
+- When discovering sellers across multiple marketplaces
+- When conducting market research and pricing intelligence
 
 ## Prerequisites
 

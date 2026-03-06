@@ -11,6 +11,13 @@ AgentMail gives AI agents real email addresses (`@theagentmail.net`) with a REST
 
 Base URL: `https://api.theagentmail.net`
 
+## When to Use
+
+- When your AI agent needs to sign up for services that require email verification
+- When building automation that needs to send and receive emails programmatically
+- When creating agents that need to monitor email responses from external services
+- When implementing email-based workflows with karma-based rate limiting
+
 ## Quick start
 
 All requests require `Authorization: Bearer am_...` header (API key from dashboard).
